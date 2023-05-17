@@ -1,0 +1,942 @@
+[
+  {
+    "title": "Visual Methods for Analyzing Time-Oriented Data",
+    "url": "10.1109/TVCG.2007.70415",
+    "reference": "",
+    "id": "aigner2008visual",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2008",
+    "authors": "Aigner, Wolfgang and Miksch, Silvia and M\u00fcller, Wolfgang and Schumann, Heidrun and Tominski, Christian",
+    "categories": ["Network Monitoring","Time Series Data","Tree Based","Spatio-temporal Based","Multivariate Based"]
+  },
+  {
+    "title": "Detecting BGP Instability Using Recurrence Quantification Analysis (RQA)",
+    "url": "10.1109/PCCC.2015.7410340",
+    "reference": "",
+    "id": "al-musawi2015detecting",
+    "venue": "Proceedings of IEEE International Performance Computing and Communications Conference",
+    "year": "2015",
+    "authors": "Al-Musawi, Bahaa and Branch, Philip and Armitage, Grenville",
+    "categories": []
+  },
+  {
+    "title": "BGP Anomaly Detection Techniques: A Survey",
+    "url": "10.1109/COMST.2016.2622240",
+    "reference": "",
+    "id": "al-musawi2017bgp",
+    "venue": "IEEE Communications Surveys & Tutorials",
+    "year": "2017",
+    "authors": "Al-Musawi, Bahaa and Branch, Philip and Armitage, Grenville",
+    "categories": []
+  },
+  {
+    "title": "Machine Learning Models for Classification of BGP Anomalies",
+    "url": "10.1109/HPSR.2012.6260835",
+    "reference": "",
+    "id": "al-rousan2012machine",
+    "venue": "Proceedings of IEEE International Conference on High Performance Switching and Routing",
+    "year": "2012",
+    "authors": "Al-Rousan, Nabil M. and Trajkovi\u0107, Ljiljana",
+    "categories": []
+  },
+  {
+    "title": "PERCIVAL: Proactive and Reactive Attack and Response Assessment for Cyber Incidents Using Visual Analytics",
+    "url": "10.1109/VIZSEC.2015.7312764",
+    "reference": "",
+    "id": "angelini2015percival",
+    "venue": "Proceedings of IEEE Symposium on Visualization for Cyber Security",
+    "year": "2015",
+    "authors": "Angelini, Marco and Prigent, Nicolas and Santucci, Giuseppe",
+    "categories": []
+  },
+  {
+    "title": "A Study of Prefix Hijacking and Interception in the Internet",
+    "url": "10.1145/1282427.1282411",
+    "reference": "",
+    "id": "ballani2007studya",
+    "venue": "ACM SIGCOMM Computer Communication Review",
+    "year": "2007",
+    "authors": "Ballani, Hitesh and Francis, Paul and Zhang, Xinyang",
+    "categories": []
+  },
+  {
+    "title": "Rapid Serial Visual Presentation in Dynamic Graph Visualization",
+    "url": "10.1109/VLHCC.2012.6344514",
+    "reference": "",
+    "id": "beck2012rapid",
+    "venue": "Proceedings of IEEE Symposium on Visual Languages and Human-Centric Computing",
+    "year": "2012",
+    "authors": "Beck, Fabian and Burch, Michael and Vehlow, Corinna and Diehl, Stephan and Weiskopf, Daniel",
+    "categories": []
+  },
+  {
+    "title": "Visual Analytics for BGP Monitoring and Prefix Hijacking Identification",
+    "url": "10.1109/MNET.2012.6375891",
+    "reference": "",
+    "id": "biersack2012visual",
+    "venue": "IEEE Network",
+    "year": "2012",
+    "authors": "Biersack, Ernst and Jacquemart, Quentin and Fischer, Fabian and Fuchs, Johannes and Thonnard, Olivier and Theodoridis, Georgios and Tzovaras, Dimitrios and Vervier, Pierre-Antoine",
+    "categories": []
+  },
+  {
+    "title": "TVi: A Visual Querying System for Network Monitoring and Anomaly Detection",
+    "url": "10.1145/2016904.2016905",
+    "reference": "",
+    "id": "boschetti2011tvi",
+    "venue": "Proceedings of International Symposium on Visualization for Cyber Security",
+    "year": "2011",
+    "authors": "Boschetti, Alberto and Salgarelli, Luca and Muelder, Chris and Ma, Kwan-Liu",
+    "categories": []
+  },
+  {
+    "title": "Parallel Edge Splatting for Scalable Dynamic Graph Visualization",
+    "url": "10.1109/TVCG.2011.226",
+    "reference": "",
+    "id": "burch2011parallel",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2011",
+    "authors": "Burch, Michael and Vehlow, Corinna and Beck, Fabian and Diehl, Stephan and Weiskopf, Daniel",
+    "categories": []
+  },
+  {
+    "title": "A Survey of BGP Security Issues and Solutions",
+    "url": "10.1109/JPROC.2009.2034031",
+    "reference": "",
+    "id": "butler2010survey",
+    "venue": "Proceedings of the IEEE",
+    "year": "2010",
+    "authors": "Butler, Kevin and Farley, Toni R. and McDaniel, Patrick and Rexford, Jennifer",
+    "categories": []
+  },
+  {
+    "title": "Dynamic Traceroute Visualization at Multiple Abstraction Levels",
+    "url": "10.1007/978-3-319-03841-4_43",
+    "reference": "",
+    "id": "candela2013dynamic",
+    "venue": "Proceedings of International Symposium on Graph Drawing",
+    "year": "2013",
+    "authors": "Candela, Massimo and Bartolomeo, Marco and Battista, Giuseppe and Squarcella, Claudio",
+    "categories": []
+  },
+  {
+    "title": "Radian: Visual Exploration of Traceroutes",
+    "url": "10.1109/TVCG.2017.2716937",
+    "reference": "",
+    "id": "candela2018radian",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "authors": "Candela, Massimo and Di Bartolomeo, Marco and Battista, Giuseppe Di and Squarcella, Claudio",
+    "categories": []
+  },
+  {
+    "title": "Multi-View Routing Visualization for the Identification of BGP Issues",
+    "url": "10.1016/j.cola.2020.100966",
+    "reference": "",
+    "id": "candela2020multiview",
+    "venue": "Journal of Computer Languages",
+    "year": "2020",
+    "authors": "Candela, Massimo and Di Battista, Giuseppe and Marzialetti, Luca",
+    "categories": []
+  },
+  {
+    "title": "RoutingWatch: Visual Exploration and Analysis of Routing Events",
+    "url": "10.1109/NOMS.2016.7502863",
+    "reference": "",
+    "id": "ceneda2016routingwatch",
+    "venue": "Proceedings of IEEE/IFIP Network Operations and Management Symposium",
+    "year": "2016",
+    "authors": "Ceneda, Davide and Di Bartolomeo, Marco and Di Donato, Valentino and Patrignani, Maurizio and Pizzonia, Maurizio and Rimondini, Massimo",
+    "categories": []
+  },
+  {
+    "title": "OCEANS: Online Collaborative Explorative Analysis on Network Security",
+    "url": "10.1145/2671491.2671493",
+    "reference": "",
+    "id": "chen2014oceans",
+    "venue": "Proceedings of IEEE Symposium on Visualization for Cyber Security",
+    "year": "2014",
+    "authors": "Chen, Siming and Guo, Cong and Yuan, Xiaoru and Merkle, Fabian and Schaefer, Hanna and Ertl, Thomas",
+    "categories": []
+  },
+  {
+    "title": "Sequence Synopsis: Optimize Visual Summary of Temporal Event Data",
+    "url": "10.1109/TVCG.2017.2745083",
+    "reference": "",
+    "id": "chen2018sequence",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "authors": "Chen, Yuanzhe and Xu, Panpan and Ren, Liu",
+    "categories": []
+  },
+  {
+    "title": "Multi-Scale LSTM Model for BGP Anomaly Classification",
+    "url": "10.1109/TSC.2018.2824809",
+    "reference": "",
+    "id": "cheng2021multiscale",
+    "venue": "IEEE Transactions on Services Computing",
+    "year": "2021",
+    "authors": "Cheng, Min and Li, Qing and Lv, Jianming and Liu, Wenyin and Wang, Jianping",
+    "categories": []
+  },
+  {
+    "title": "Cyclops: The AS-level Connectivity Observatory",
+    "url": "10.1145/1452335.1452337",
+    "reference": "",
+    "id": "chi2008cyclops",
+    "venue": "ACM SIGCOMM Computer Communication Review",
+    "year": "2008",
+    "authors": "Chi, Ying-Ju and Oliveira, Ricardo and Zhang, Lixia",
+    "categories": []
+  },
+  {
+    "title": "Measuring and Visualizing Interdomain Routing Dynamics with BGPATH",
+    "url": "10.1109/ISCC.2008.4625641",
+    "reference": "",
+    "id": "cittadini2008measuring",
+    "venue": "Proceedings of IEEE Symposium on Computers and Communications",
+    "year": "2008",
+    "authors": "Cittadini, Luca and Refice, Tiziana and Campisano, Alessio and Di Battista, Giuseppe and Sasso, Claudio",
+    "categories": []
+  },
+  {
+    "title": "Visualizing Interdomain Routing with BGPlay",
+    "url": "10.7155/jgaa.00102",
+    "reference": "",
+    "id": "colitti2005visualizing",
+    "venue": "Journal on Graph Algorithms and Applications",
+    "year": "2005",
+    "authors": "Colitti, Lorenzo and Battista, Giuseppe Di and Mariani, Federico and Patrignani, Maurizio and Pizzonia, Maurizio",
+    "categories": []
+  },
+  {
+    "title": "Topographic Visualization of Prefix Propagation in the Internet",
+    "url": "10.1109/TVCG.2006.185",
+    "reference": "",
+    "id": "cortese2006topographic",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2006",
+    "authors": "Cortese, Pier Francesco and Di Battista, Giuseppe and Moneta, Antonello and Patrignani, Maurizio and Pizzonia, Maurizio",
+    "categories": []
+  },
+  {
+    "title": "TimeArcs: Visualizing Fluctuations in Dynamic Networks",
+    "url": "10.1111/cgf.12882",
+    "reference": "",
+    "id": "dang2016timearcs",
+    "venue": "Computer Graphics Forum",
+    "year": "2016",
+    "authors": "Dang, T. N. and Pendar, N. and Forbes, A. G.",
+    "categories": []
+  },
+  {
+    "title": "Tuning Automatic Summarization for Incident Report Visualization",
+    "url": "10.1109/PacificVis53943.2022.00031",
+    "reference": "",
+    "id": "danneman2022tuning",
+    "venue": "Proceedings of IEEE Pacific Visualization Symposium",
+    "year": "2022",
+    "authors": "Danneman, Nathan and Gove, Robert",
+    "categories": []
+  },
+  {
+    "title": "ROUSSEAU: A Monitoring System for Inter-domain Routing Security",
+    "url": "10.1109/CNSR.2008.65",
+    "reference": "",
+    "id": "deng2008rousseau",
+    "venue": "Proceedings of Annual Communication Networks and Services Research Conference",
+    "year": "2008",
+    "authors": "Deng, Wenping and Zhu, Peidong and Lu, Xicheng",
+    "categories": []
+  },
+  {
+    "title": "NetFork: Mapping Time to Space in Network Visualization",
+    "url": "10.1145/2909132.2909245",
+    "reference": "",
+    "id": "didonato2016netfork",
+    "venue": "Proceedings of the International Working Conference on Advanced Visual Interfaces",
+    "year": "2016",
+    "authors": "Di Donato, Valentino and Patrignani, Maurizio and Squarcella, Claudio",
+    "categories": []
+  },
+  {
+    "title": "VisTracer: A Visual Analytics Tool to Investigate Routing Anomalies in Traceroutes",
+    "url": "10.1145/2379690.2379701",
+    "reference": "",
+    "id": "fischer2012vistracer",
+    "venue": "Proceedings of the International Symposium on Visualization for Cyber Security",
+    "year": "2012",
+    "authors": "Fischer, Fabian and Fuchs, Johannes and Vervier, Pierre-Antoine and Mansmann, Florian and Thonnard, Olivier",
+    "categories": []
+  },
+  {
+    "title": "A Visual Analytics Field Experiment to Evaluate Alternative Visualizations for Cyber Security Applications",
+    "url": "10.2312/eurova.20141144",
+    "reference": "",
+    "id": "fischer2014visual",
+    "venue": "Proceedings of EuroVis Workshop on Visual Analytics",
+    "year": "2014",
+    "authors": "Fischer, Fabian and Davey, James and Fuchs, Johannes and Thonnard, Olivier and Kohlhammer, J\u00f6rn and Keim, Daniel A.",
+    "categories": []
+  },
+  {
+    "title": "BGP Dataset Generation and Feature Extraction for Anomaly Detection",
+    "url": "10.1109/ISCC47284.2019.8969619",
+    "reference": "",
+    "id": "fonseca2019bgp",
+    "venue": "Proceedings of IEEE Symposium on Computers and Communications",
+    "year": "2019",
+    "authors": "Fonseca, Paulo and Mota, Edjard S. and Bennesby, Ricardo and Passito, Alexandre",
+    "categories": []
+  },
+  {
+    "title": "Eliminating Routing Loops and Oscillations in BGP Using Total Ordering",
+    "url": "10.1109/LCN53696.2022.9843706",
+    "reference": "",
+    "id": "garcia-luna-aceves2022eliminating",
+    "venue": "Proceedings of IEEE Conference on Local Computer Networks",
+    "year": "2022",
+    "authors": "Garcia-Luna-Aceves, J. J.",
+    "categories": []
+  },
+  {
+    "title": "Situ: Identifying and Explaining Suspicious Behavior in Networks",
+    "url": "10.1109/TVCG.2018.2865029",
+    "reference": "",
+    "id": "goodall2019situ",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2019",
+    "authors": "Goodall, John R. and Ragan, Eric D. and Steed, Chad A. and Reed, Joel W. and Richardson, G. David and Huffer, Kelly M.T. and Bridges, Robert A. and Laska, Jason A.",
+    "categories": []
+  },
+  {
+    "title": "Automatic Narrative Summarization for Visualizing Cyber Security Logs and Incident Reports",
+    "url": "10.1109/TVCG.2021.3114843",
+    "reference": "",
+    "id": "gove2022automatic",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2022",
+    "authors": "Gove, Robert",
+    "categories": []
+  },
+  {
+    "title": "Contextual Network Navigation to Provide Situational Awareness for Network Administrators",
+    "url": "10.1109/VIZSEC.2015.7312769",
+    "reference": "",
+    "id": "gray2015contextuala",
+    "venue": "Proceedings of IEEE Symposium on Visualization for Cyber Security",
+    "year": "2015",
+    "authors": "Gray, Cameron C. and Ritsos, Panagiotis D. and Roberts, Jonathan C.",
+    "categories": []
+  },
+  {
+    "title": "A Survey on Information Visualization for Network and Service Management",
+    "url": "10.1109/COMST.2015.2450538",
+    "reference": "",
+    "id": "guimaraes2016survey",
+    "venue": "IEEE Communications Surveys & Tutorials",
+    "year": "2016",
+    "authors": "Guimar\u00e3es, Vin\u00edcius Tavares and Freitas, Carla Maria Dal Sasso and Sadre, Ramin and Tarouco, Liane Margarida Rockenbach and Granville, Lisandro Zambenedetti",
+    "categories": []
+  },
+  {
+    "title": "Supporting the Visual Analysis of Dynamic Networks by Clustering Associated Temporal Attributes",
+    "url": "10.1109/TVCG.2013.198",
+    "reference": "",
+    "id": "hadlak2013supporting",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2013",
+    "authors": "Hadlak, Steffen and Schumann, Heidrun and Cap, Clemens H. and Wollenberg, Till",
+    "categories": []
+  },
+  {
+    "title": "Using BGP Features Towards Identifying Type of BGP Anomaly",
+    "url": "10.1109/ICOTEN52080.2021.9493491",
+    "reference": "",
+    "id": "hammood2021using",
+    "venue": "Proceedings of International Congress of Advanced Technology and Engineering",
+    "year": "2021",
+    "authors": "Hammood, Noor Hadi and Al-Musawi, Bahaa",
+    "categories": []
+  },
+  {
+    "title": "Topology Discovery by Active Probing",
+    "url": "10.1109/SAINTW.2002.994558",
+    "reference": "",
+    "id": "huffaker2002topology",
+    "venue": "Proceedings of Symposium on Applications and the Internet Workshops",
+    "year": "2002",
+    "authors": "Huffaker, B. and Plummer, D. and Moore, D. and Claffy, K.",
+    "categories": []
+  },
+  {
+    "title": "Securing BGP - A Literature Survey",
+    "url": "10.1109/SURV.2011.041010.00041",
+    "reference": "",
+    "id": "huston2011securing",
+    "venue": "IEEE Communications Surveys & Tutorials",
+    "year": "2011",
+    "authors": "Huston, Geoff and Rossi, Mattia and Armitage, Grenville",
+    "categories": []
+  },
+  {
+    "title": "BGP Route Leak Prevention Based on BGPsec",
+    "url": "10.1109/VTCFall.2018.8690840",
+    "reference": "",
+    "id": "jin2018bgp",
+    "venue": "Proceeding of IEEE Vehicular Technology Conference",
+    "year": "2018",
+    "authors": "Jin, Jian",
+    "categories": []
+  },
+  {
+    "title": "TVis: A Light-weight Traffic Visualization System for DDoS Detection",
+    "url": "10.1109/iSAI-NLP48611.2019.9068666",
+    "reference": "",
+    "id": "kalwar2019tvis",
+    "venue": "Proceedings of International Joint Symposium on Artificial Intelligence and Natural Language Processing",
+    "year": "2019",
+    "authors": "Kalwar, Abhishek and Bhuyan, Monowar H. and Bhattacharyya, Dhruba K. and Kadobayashi, Youki and Elmroth, Erik and Kalita, Jugal K.",
+    "categories": []
+  },
+  {
+    "title": "A Comparative Study on IP Prefixes and Their Origin Ases in BGP and the IRR",
+    "url": "10.1145/2500098.2500101",
+    "reference": "",
+    "id": "khan2013comparative",
+    "venue": "ACM SIGCOMM Computer Communication Review",
+    "year": "2013",
+    "authors": "Khan, Akmal and Kim, Hyun-chul and Kwon, Taekyoung and Choi, Yanghee",
+    "categories": []
+  },
+  {
+    "title": "Analysis of the Design Space for Cybersecurity Visualizations in VizSec",
+    "url": "10.1109/VizSec56996.2022.9941422",
+    "reference": "",
+    "id": "komadina2022analysis",
+    "venue": "Proceedings of IEEE Symposium on Visualization for Cyber Security",
+    "year": "2022",
+    "authors": "Komadina, Adrian and Mihajlovi\u0107, \u017deljka and Gro\u0161, Stjepan",
+    "categories": []
+  },
+  {
+    "title": "An Algorithmic Approach to Identifying Link Failures",
+    "url": "10.1109/PRDC.2004.1276549",
+    "reference": "",
+    "id": "lad2004algorithmic",
+    "venue": "Proceedings of IEEE Pacific Rim International Symposium on Dependable Computing",
+    "year": "2004",
+    "authors": "Lad, M. and Nanavati, Akash and Massey, D. and Zhang, L.",
+    "categories": []
+  },
+  {
+    "title": "Link-Rank: A Graphical Tool for Capturing BGP Routing Dynamics",
+    "url": "10.1109/NOMS.2004.1317749",
+    "reference": "",
+    "id": "lad2004linkrank",
+    "venue": "Proceedings of IEEE/IFIP Network Operations and Management Symposium",
+    "year": "2004",
+    "authors": "Lad, M. and Zhang, Lixia and Massey, D.",
+    "categories": []
+  },
+  {
+    "title": "Visualizing Internet Routing Changes",
+    "url": "10.1109/TVCG.2006.108",
+    "reference": "",
+    "id": "lad2006visualizing",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2006",
+    "authors": "Lad, M. and Massey, D. and Zhang, L.",
+    "categories": []
+  },
+  {
+    "title": "Inferring the Origin of Routing Changes Using Link Weights",
+    "url": "10.1109/ICNP.2007.4375840",
+    "reference": "",
+    "id": "lad2007inferring",
+    "venue": "Proceedings of IEEE International Conference on Network Protocols",
+    "year": "2007",
+    "authors": "Lad, Mohit and Oliveira, Ricardo and Massey, Dan and Zhang, Lixia",
+    "categories": []
+  },
+  {
+    "title": "BGP with BGPsec: Attacks and Countermeasures",
+    "url": "10.1109/MNET.2018.1800171",
+    "reference": "",
+    "id": "li2019bgp",
+    "venue": "IEEE Network",
+    "year": "2019",
+    "authors": "Li, Qi and Liu, Jiajia and Hu, Yih-Chun and Xu, Mingwei and Wu, Jianping",
+    "categories": []
+  },
+  {
+    "title": "AS Relationships, Customer Cones, and Validation",
+    "url": "10.1145/2504730.2504735",
+    "reference": "",
+    "id": "luckie2013relationships",
+    "venue": "Proceedings of the ACM Internet Measurement Conference",
+    "year": "2013",
+    "authors": "Luckie, Matthew and Huffaker, Bradley and Dhamdhere, Amogh and Giotsas, Vasileios and claffy, kc",
+    "categories": []
+  },
+  {
+    "title": "Interactive Exploration of Data Traffic with Hierarchical Network Maps",
+    "url": "10.1109/TVCG.2006.98",
+    "reference": "",
+    "id": "mansmann2006interactive",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2006",
+    "authors": "Mansmann, F. and Vinnik, S.",
+    "categories": []
+  },
+  {
+    "title": "Visual Analysis of Network Traffic for Resource Planning, Interactive Monitoring, and Interpretation of Security Threats",
+    "url": "10.1109/TVCG.2007.70522",
+    "reference": "",
+    "id": "mansmann2007visual",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2007",
+    "authors": "Mansmann, Florian and Keim, Daniel A. and North, Stephen C. and Rexroad, Brian and Sheleheda, Daniel",
+    "categories": []
+  },
+  {
+    "title": "Performance Analysis and Route Optimization: Redistribution between EIGRP, OSPF & BGP Routing Protocols",
+    "url": "10.1016/j.csi.2019.103391",
+    "reference": "",
+    "id": "manzoor2020performance",
+    "venue": "Computer Standards & Interfaces",
+    "year": "2020",
+    "authors": "Manzoor, Atif and Hussain, Muzammil and Mehrban, Sobia",
+    "categories": []
+  },
+  {
+    "title": "Secure Inter-Domain Routing Based on Blockchain: A Comprehensive Survey",
+    "url": "10.3390/s22041437",
+    "reference": "",
+    "id": "mastilak2022secure",
+    "venue": "Sensors",
+    "year": "2022",
+    "authors": "Mastilak, Lukas and Helebrandt, Pavol and Galinski, Marek and Kotuliak, Ivan",
+    "categories": []
+  },
+  {
+    "title": "The State of Affairs in BGP Security: A Survey of Attacks and Defenses",
+    "url": "10.1016/j.comcom.2018.04.013",
+    "reference": "",
+    "id": "mitseva2018state",
+    "venue": "Computer Communications",
+    "year": "2018",
+    "authors": "Mitseva, Asya and Panchenko, Andriy and Engel, Thomas",
+    "categories": []
+  },
+  {
+    "title": "VAST: Visualizing Autonomous System Topology",
+    "url": "10.1145/1179576.1179592",
+    "reference": "",
+    "id": "oberheide2006vast",
+    "venue": "Proceedings of International Workshop on Visualization for Computer Security",
+    "year": "2006",
+    "authors": "Oberheide, Jon and Karir, Manish and Blazakis, Dionysus",
+    "categories": []
+  },
+  {
+    "title": "RCAnalyzer: Visual Analytics of Rare Categories in Dynamic Networks",
+    "url": "10.1631/FITEE.1900310",
+    "reference": "",
+    "id": "pan2020rcanalyzer",
+    "venue": "Frontiers of Information Technology & Electronic Engineering",
+    "year": "2020",
+    "authors": "Pan, Jia-cheng and Han, Dong-ming and Guo, Fang-zhou and Zhou, Da-wei and Cao, Nan and He, Jing-rui and Xu, Ming-liang and Chen, Wei",
+    "categories": []
+  },
+  {
+    "title": "Hierarchical Visualization of BGP Routing Changes Using Entropy Measures",
+    "url": "10.1007/978-3-642-33191-6_69",
+    "reference": "",
+    "id": "papadopoulos2012hierarchical",
+    "venue": "Proceedings of Advances in Visual Computing",
+    "year": "2012",
+    "authors": "Papadopoulos, Stavros and Moustakas, Konstantinos and Tzovaras, Dimitrios",
+    "categories": []
+  },
+  {
+    "title": "BGPfuse: Using Visual Feature Fusion for the Detection and Attribution of BGP Anomalies",
+    "url": "10.1145/2517957.2517965",
+    "reference": "",
+    "id": "papadopoulos2013bgpfuse",
+    "venue": "Proceedings of the Tenth Workshop on Visualization for Cyber Security",
+    "year": "2013",
+    "authors": "Papadopoulos, Stavros and Theodoridis, Georgios and Tzovaras, Dimitrios",
+    "categories": []
+  },
+  {
+    "title": "BGPViewer: Using Graph Representations to Explore BGP Routing Changes",
+    "url": "10.1109/ICDSP.2013.6622756",
+    "reference": "",
+    "id": "papadopoulos2013bgpviewer",
+    "venue": "Proceedings of International Conference on Digital Signal Processing",
+    "year": "2013",
+    "authors": "Papadopoulos, Stavros and Moustakas, Konstantinos and Tzovaras, Dimitrios",
+    "categories": []
+  },
+  {
+    "title": "Border Gateway Protocol Graph: Detecting and Visualising Internet Routing Anomalies",
+    "url": "10.1049/iet-ifs.2014.0525",
+    "reference": "",
+    "id": "papadopoulos2016border",
+    "venue": "IET Information Security",
+    "year": "2016",
+    "authors": "Papadopoulos, Stavros and Moustakas, Konstantinos and Drosou, Anastasios and Tzovaras, Dimitrios",
+    "categories": []
+  },
+  {
+    "title": "A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network",
+    "url": "10.1016/j.comnet.2022.109129",
+    "reference": "",
+    "id": "peng2022multiview",
+    "venue": "Computer Networks",
+    "year": "2022",
+    "authors": "Peng, Songtao and Nie, Jiaqi and Shu, Xincheng and Ruan, Zhongyuan and Wang, Lei and Sheng, Yunxuan and Xuan, Qi",
+    "categories": []
+  },
+  {
+    "title": "BGP-lens: Patterns and Anomalies in Internet Routing Updates",
+    "url": "10.1145/1557019.1557160",
+    "reference": "",
+    "id": "prakash2009bgplens",
+    "venue": "Proceedings of ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+    "year": "2009",
+    "authors": "Prakash, B. Aditya and Valler, Nicholas and Andersen, David and Faloutsos, Michalis and Faloutsos, Christos",
+    "categories": []
+  },
+  {
+    "title": "The State of the Art in BGP Visualization Tools: A Mapping of Visualization Techniques to Cyberattack Types",
+    "url": "10.1109/TVCG.2022.3209412",
+    "reference": "",
+    "id": "raynor2023state",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2023",
+    "authors": "Raynor, Justin and Crnovrsanin, Tarik and Bartolomeo, Sara Di and South, Laura and Saffo, David and Dunne, Cody",
+    "categories": []
+  },
+  {
+    "title": "Visual Firewall Log Analysis - At the Border Between Analytical and Appealing",
+    "url": "10.1109/VizSec56996.2022.9941462",
+    "reference": "",
+    "id": "schufrin2022visual",
+    "venue": "Proceedings of IEEE Symposium on Visualization for Cyber Security",
+    "year": "2022",
+    "authors": "Schufrin, Marija and L\u00fccke-Tieke, Hendrik and Kohlhammer, J\u00f6rn",
+    "categories": []
+  },
+  {
+    "title": "ARTEMIS: Neutralizing BGP Hijacking Within a Minute",
+    "url": "10.1109/TNET.2018.2869798",
+    "reference": "",
+    "id": "sermpezis2018artemis",
+    "venue": "IEEE/ACM Transactions on Networking",
+    "year": "2018",
+    "authors": "Sermpezis, Pavlos and Kotronis, Vasileios and Gigis, Petros and Dimitropoulos, Xenofontas and Cicalese, Danilo and King, Alistair and Dainotti, Alberto",
+    "categories": []
+  },
+  {
+    "title": "A Survey among Network Operators on BGP Prefix Hijacking",
+    "url": "10.1145/3211852.3211862",
+    "reference": "",
+    "id": "sermpezis2018survey",
+    "venue": "ACM SIGCOMM Computer Communication Review",
+    "year": "2018",
+    "authors": "Sermpezis, Pavlos and Kotronis, Vasileios and Dainotti, Alberto and Dimitropoulos, Xenofontas",
+    "categories": []
+  },
+  {
+    "title": "An Evaluation Framework for Network Security Visualizations",
+    "url": "10.1016/j.cose.2019.03.005",
+    "reference": "",
+    "id": "sharafaldin2019evaluation",
+    "venue": "Computers & Security",
+    "year": "2019",
+    "authors": "Sharafaldin, Iman and Lashkari, Arash Habibi and Ghorbani, Ali A.",
+    "categories": []
+  },
+  {
+    "title": "BGPeep: An IP-Space Centered View for Internet Routing Data",
+    "url": "10.1007/978-3-540-85933-8_10",
+    "reference": "",
+    "id": "shearer2008bgpeep",
+    "venue": "Proceedings of International Workshop on Visualization for Computer Security",
+    "year": "2008",
+    "authors": "Shearer, James and Ma, Kwan-Liu and Kohlenberg, Toby",
+    "categories": []
+  },
+  {
+    "title": "Visual Analytics of Anomalous User Behaviors: A Survey",
+    "url": "10.1109/TBDATA.2020.2964169",
+    "reference": "",
+    "id": "shi2022visual",
+    "venue": "IEEE Transactions on Big Data",
+    "year": "2022",
+    "authors": "Shi, Yang and Liu, Yuyin and Tong, Hanghang and He, Jingrui and Yan, Gang and Cao, Nan",
+    "categories": []
+  },
+  {
+    "title": "A Survey of Visualization Systems for Network Security",
+    "url": "10.1109/TVCG.2011.144",
+    "reference": "",
+    "id": "shiravi2012survey",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2012",
+    "authors": "Shiravi, Hadi and Shiravi, Ali and Ghorbani, Ali A.",
+    "categories": []
+  },
+  {
+    "title": "Network Visualization by Semantic Substrates",
+    "url": "10.1109/TVCG.2006.166",
+    "reference": "",
+    "id": "shneiderman2006network",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2006",
+    "authors": "Shneiderman, Ben and Aris, Aleks",
+    "categories": []
+  },
+  {
+    "title": "NetTimeView: Applying Spatio-temporal Data Visualization Techniques to DDoS Attack Analysis",
+    "url": "10.1007/978-3-319-14249-4_34",
+    "reference": "",
+    "id": "shrestha2014nettimeview",
+    "venue": "Proceedings of Advances in Visual Computing",
+    "year": "2014",
+    "authors": "Shrestha, Ayush and Zhu, Ying and Manandhar, Kebina",
+    "categories": []
+  },
+  {
+    "title": "A Survey on the Recent Efforts of the Internet Standardization Body for Securing Inter-Domain Routing",
+    "url": "10.1016/j.comnet.2015.01.017",
+    "reference": "",
+    "id": "siddiqui2015survey",
+    "venue": "Computer Networks",
+    "year": "2015",
+    "authors": "Siddiqui, M. S. and Montero, D. and Serral-Graci\u00e0, R. and Masip-Bruin, X. and Yannuzzi, M.",
+    "categories": []
+  },
+  {
+    "title": "Bigfoot: A Geo-Based Visualization Methodology for Detecting BGP Threats",
+    "url": "10.1109/VIZSEC.2016.7739583",
+    "reference": "",
+    "id": "syamkumar2016bigfoot",
+    "venue": "Proceedings of IEEE Symposium on Visualization for Cyber Security",
+    "year": "2016",
+    "authors": "Syamkumar, Meenakshi and Durairajan, Ramakrishnan and Barford, Paul",
+    "categories": []
+  },
+  {
+    "title": "BigBen: Telemetry Processing for Internet-Wide Event Monitoring",
+    "url": "10.1109/TNSM.2022.3184593",
+    "reference": "",
+    "id": "syamkumar2022bigben",
+    "venue": "IEEE Transactions on Network and Service Management",
+    "year": "2022",
+    "authors": "Syamkumar, Meenakshi and Gullapalli, Yugali and Tang, Wei and Barford, Paul and Sommers, Joel",
+    "categories": []
+  },
+  {
+    "title": "Graph Drawing for Security Visualization",
+    "url": "10.1007/978-3-642-00219-9_2",
+    "reference": "",
+    "id": "tamassia2009graph",
+    "venue": "Proceedings of Graph Drawing",
+    "year": "2009",
+    "authors": "Tamassia, Roberto and Palazzi, Bernardo and Papamanthou, Charalampos",
+    "categories": []
+  },
+  {
+    "title": "Visual Analysis of Collective Anomalies Through High-Order Correlation Graph",
+    "url": "10.1109/PacificVis.2018.00027",
+    "reference": "",
+    "id": "tao2018visual",
+    "venue": "Proceedings of IEEE Pacific Visualization Symposium",
+    "year": "2018",
+    "authors": "Tao, Jun and Shi, Lei and Zhuang, Zhou and Huang, Congcong and Yu, Rulei and Su, Purui and Wang, Chaoli and Chen, Yang",
+    "categories": []
+  },
+  {
+    "title": "Case Study: Interactive Visualization for Internet Security",
+    "url": "10.1109/VISUAL.2002.1183816",
+    "reference": "",
+    "id": "teoh2002case",
+    "venue": "Proceedings of IEEE Visualization",
+    "year": "2002",
+    "authors": "Teoh, Soon Tee and Ma, Kwan-Liu and Wu, S.F. and Zhao, Xiaoliang",
+    "categories": []
+  },
+  {
+    "title": "A Visual Exploration Process for the Analysis of Internet Routing Data",
+    "url": "10.1109/VISUAL.2003.1250415",
+    "reference": "",
+    "id": "teoh2003visual",
+    "venue": "Proceedings of IEEE Visualization",
+    "year": "2003",
+    "authors": "Teoh, Soon Tee and Ma, Kwan-Liu and Wu, S. Felix",
+    "categories": []
+  },
+  {
+    "title": "Combining Visual and Automated Data Mining for Near-Real-Time Anomaly Detection and Analysis in BGP",
+    "url": "10.1145/1029208.1029215",
+    "reference": "",
+    "id": "teoh2004combininga",
+    "venue": "Proceedings of the ACM Workshop on Visualization and Data Mining for Computer Security",
+    "year": "2004",
+    "authors": "Teoh, Soon Tee and Zhang, Ke and Tseng, Shih-Ming and Ma, Kwan-Liu and Wu, S. Felix",
+    "categories": []
+  },
+  {
+    "title": "BGP Eye: A New Visualization Tool for Real-Time Detection and Analysis of BGP Anomalies",
+    "url": "10.1145/1179576.1179593",
+    "reference": "",
+    "id": "teoh2006bgp",
+    "venue": "Proceedings of International Workshop on Visualization for Computer Security",
+    "year": "2006",
+    "authors": "Teoh, Soon Tee and Ranjan, Supranamaya and Nucci, Antonio and Chuah, Chen-Nee",
+    "categories": []
+  },
+  {
+    "title": "Reviewing a Historical Internet Vulnerability: Why Isn't BGP More Secure and What Can We Do About It?",
+    "url": "10.2139/ssrn.3141666",
+    "reference": "",
+    "id": "testart2018reviewing",
+    "venue": "Proceedings of Research Conference on Communication, Information and Internet Policy",
+    "year": "2018",
+    "authors": "Testart, Cecilia",
+    "categories": []
+  },
+  {
+    "title": "Visual-Interactive Identification of Anomalous IP-Block Behavior Using Geo-IP Data",
+    "url": "10.1109/VIZSEC.2018.8709182",
+    "reference": "",
+    "id": "ulmer2018visualinteractive",
+    "venue": "Proceedings of IEEE Symposium on Visualization for Cyber Security",
+    "year": "2018",
+    "authors": "Ulmer, Alex and Schufrin, Marija and Sessler, David and Kohlhammer, J\u00f6rn",
+    "categories": []
+  },
+  {
+    "title": "ProBGP: Progressive Visual Analytics of Live BGP Updates",
+    "url": "10.1111/cgf.14287",
+    "reference": "",
+    "id": "ulmer2021probgp",
+    "venue": "Computer Graphics Forum",
+    "year": "2021",
+    "authors": "Ulmer, A. and Sessler, D. and Kohlhammer, J.",
+    "categories": []
+  },
+  {
+    "title": "Observation and Analysis of BGP Behavior under Stress",
+    "url": "10.1145/637201.637231",
+    "reference": "",
+    "id": "wang2002observation",
+    "venue": "Proceedings of ACM SIGCOMM Workshop on Internet Measurment",
+    "year": "2002",
+    "authors": "Wang, Lan and Zhao, Xiaoliang and Pei, Dan and Bush, Randy and Massey, Daniel and Mankin, Allison and Wu, S. Felix and Zhang, Lixia",
+    "categories": []
+  },
+  {
+    "title": "Internet Routing Anomaly Detection and Visualization",
+    "url": "10.1109/DSN.2005.57",
+    "reference": "",
+    "id": "wong2005internet",
+    "venue": "Proceedings of International Conference on Dependable Systems and Networks",
+    "year": "2005",
+    "authors": "Wong, T. and Jacobson, Van and Alaettinoglu, C.",
+    "categories": []
+  },
+  {
+    "title": "Research on Visualization Systems for DDoS Attack Detection",
+    "url": "10.1109/SMC.2018.00507",
+    "reference": "",
+    "id": "wu2018research",
+    "venue": "Proceedings of IEEE International Conference on Systems, Man, and Cybernetics",
+    "year": "2018",
+    "authors": "Wu, Chunyuan and Sheng, Shiying and Dong, Xiaoju",
+    "categories": []
+  },
+  {
+    "title": "BGPmon: A Real-Time, Scalable, Extensible Monitoring System",
+    "url": "10.1109/CATCH.2009.28",
+    "reference": "",
+    "id": "yan2009bgpmon",
+    "venue": "Proceedings of Cybersecurity Applications & Technology Conference for Homeland Security",
+    "year": "2009",
+    "authors": "Yan, He and Oliveira, Ricardo and Burnett, Kevin and Matthews, Dave and Zhang, Lixia and Massey, Dan",
+    "categories": []
+  },
+  {
+    "title": "Visual Analysis of Collective Anomalies Using Faceted High-Order Correlation Graphs",
+    "url": "10.1109/TVCG.2018.2889470",
+    "reference": "",
+    "id": "yan2020visual",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2020",
+    "authors": "Yan, Jia and Shi, Lei and Tao, Jun and Yu, Xiaolong and Zhuang, Zhou and Huang, Congcong and Yu, Rulei and Su, Purui and Wang, Chaoli and Chen, Yang",
+    "categories": []
+  },
+  {
+    "title": "Scalability of Network Visualisation from a Cognitive Load Perspective",
+    "url": "10.1109/TVCG.2020.3030459",
+    "reference": "",
+    "id": "yoghourdjian2021scalability",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "authors": "Yoghourdjian, Vahan and Yang, Yalong and Dwyer, Tim and Lawrence, Lee and Wybrow, Michael and Marriott, Kim",
+    "categories": []
+  },
+  {
+    "title": "Research on~Network Invulnerability and~Its Application on~AS-Level Internet Topology",
+    "url": "10.1007/978-981-19-7532-5_14",
+    "reference": "",
+    "id": "zhang2022research",
+    "venue": "Proceedings of Big Data and Social Computing",
+    "year": "2022",
+    "authors": "Zhang, Lu and Nie, Jiaqi and Peng, Songtao and Shu, Xincheng",
+    "categories": []
+  },
+  {
+    "title": "The Performance Impact of BGP Security",
+    "url": "10.1109/MNET.2005.1541720",
+    "reference": "",
+    "id": "zhao2005performance",
+    "venue": "IEEE Network",
+    "year": "2005",
+    "authors": "Zhao, M. and Smith, S.W. and Nicol, D.M.",
+    "categories": []
+  },
+  {
+    "title": "NetSecRadar: A Real-Time Visualization System for Network Security - VAST 2012 Mini Challenge. Award: Honorable Mention for Interesting Use of Radial Visualization Technique",
+    "url": "10.1109/VAST.2012.6400516",
+    "reference": "",
+    "id": "zhao2012netsecradar",
+    "venue": "Proceedings of IEEE Conference on Visual Analytics Science and Technology",
+    "year": "2012",
+    "authors": "Zhao, Ying and Zhou, Fangfang and Shi, Ronghua",
+    "categories": []
+  },
+  {
+    "title": "IDSRadar: A Real-Time Visualization Framework for IDS Alerts",
+    "url": "10.1007/s11432-013-4891-9",
+    "reference": "",
+    "id": "zhao2013idsradara",
+    "venue": "Science China Information Sciences",
+    "year": "2013",
+    "authors": "Zhao, Ying and Zhou, FangFang and Fan, XiaoPing and Liang, Xing and Liu, YongGang",
+    "categories": []
+  },
+  {
+    "title": "ENTVis: A Visual Analytic Tool for Entropy-Based Network Traffic Anomaly Detection",
+    "url": "10.1109/MCG.2015.97",
+    "reference": "",
+    "id": "zhou2015entvis",
+    "venue": "IEEE Computer Graphics and Applications",
+    "year": "2015",
+    "authors": "Zhou, Fangfang and Huang, Wei and Zhao, Ying and Shi, Yang and Liang, Xing and Fan, Xiaoping",
+    "categories": []
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "type": "category",
+    "title": "Security Threats",
+    "description": "Security Threats",
+    "childrenDescription": "Security Threats: ",
+    "entries": [
+      {
+        "type": "category-entry",
+        "title": "Direct Intentional",
+        "description": "Direct Intentional",
+        "content": "Direct Intentional"
+      },
+      {
+        "type": "category-entry",
+        "title": "Direct Unintentional",
+        "description": "Direct Unintentional",
+        "content": "Direct Unintentional"
+      },
+      {
+        "type": "category-entry",
+        "title": "Indirect Anomalous",
+        "description": "Indirect Anomalous",
+        "content": "Indirect Anomalous"
+      },
+      {
+        "type": "category-entry",
+        "title": "Physical Failures",
+        "description": "Physical Failures",
+        "content": "Physical Failures"
+      }
+    ]
+  },
+    {
+    "type": "category",
+    "title": "Task Scenarios",
+    "description": "Task Scenarios",
+    "childrenDescription": "Task Scenarios: ",
+    "entries": [
+      {
+        "type": "category-entry",
+        "title": "Network Monitoring",
+        "description": "Network Monitoring",
+        "content": "Network Monitoring"
+      },
+      {
+        "type": "category-entry",
+        "title": "Feature Mining",
+        "description": "Feature Mining",
+        "content": "Feature Mining"
+      },
+      {
+        "type": "category-entry",
+        "title": "Anomaly Detection",
+        "description": "Anomaly Detection",
+        "content": "Anomaly Detection"
+      },
+      {
+        "type": "category-entry",
+        "title": "Pattern Evolution",
+        "description": "Pattern Evolution",
+        "content": "Pattern Evolution"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "title": "Data type",
+    "description": "Data Type",
+    "childrenDescription": "Data Type: ",
+    "entries": [
+      {
+        "type": "category-entry",
+        "title": "Time Series Data",
+        "description": "Time Series Data",
+        "content": "Time Series Data"
+      },
+      {
+        "type": "category-entry",
+        "title": "Network Topology Data",
+        "description": "Network Topology Data",
+        "content": "Network Topology Data"
+      },
+      {
+        "type": "category-entry",
+        "title": "Cybersecurity Reports Data",
+        "description": "Cybersecurity Reports Data",
+        "content": "Cybersecurity Reports Data"
+      }, 
+      {
+        "type": "category-entry",
+        "title": "Geospatial Data",
+        "description": "Geospatial Data",
+        "content": "Geospatial Data"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "title": "Visualization Techniques",
+    "description": "Visualization Techniques",
+    "childrenDescription": "Visualization Techniques: ",
+    "entries": [
+      {
+        "type": "category-entry",
+        "title": "Spatio-temporal Based",
+        "description": "Spatio-temporal Based",
+        "content": "Spatio-temporal Based"
+      },
+      {
+        "type": "category-entry",
+        "title": "Graph Based",
+        "description": "Graph Based",
+        "content": "Graph Based"
+      },
+      {
+        "type": "category-entry",
+        "title": "tree",
+        "description": "Tree Based",
+        "content": "Tree Based"
+      },
+      {
+        "type": "category-entry",
+        "title": "Multivariate Based",
+        "description": "Multivariate Based",
+        "content": "Multivariate Based"
+      }
+    ]
+}
+]
