@@ -3,7 +3,7 @@
 
 This repository hosts a web-based interactive browser of our survey paper.
 
-This survey is  at ChinaVis 2023 Review Track, .
+This survey is  at ChinaVis 2023 Review Track.
 
 Online interactive browser: https://zjutvis.github.io/VOBGP/
 
